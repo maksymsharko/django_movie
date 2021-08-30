@@ -1,1 +1,2 @@
-# django_movie_project
+# Django Movie Project
+# It is my second django project
