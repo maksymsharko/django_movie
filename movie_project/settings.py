@@ -235,3 +235,8 @@ RECAPTCHA_SCORE_THRESHOLD = 0.5
 RECAPTCHA_LANGUAGE = 'en'
 
 SITE_ID = 1
+
+try:
+    from .local_settings import *
+except ImportError:
+    from .prod_settings import *

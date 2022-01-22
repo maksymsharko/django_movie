@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0890a3da-4c1f-4c15-9d42-d85230e57c6b" name="Changes" comment="" />
+    <list default="true" id="0890a3da-4c1f-4c15-9d42-d85230e57c6b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/23d2cee5-55d6-4eb1-af71-802dd52abfd5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat.values" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat.values.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3eb7ce3-c215-4714-a5c9-e30bec832b74/entities/entities.dat_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/movies/admin.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/movies/models.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1x2JMjgnM7CADv1lxXPp4PxaO8j" />
   <component name="ProjectViewState">
@@ -27,10 +59,35 @@
       <option name="presentableId" value="Default" />
       <updated>1629547204249</updated>
       <workItem from="1629547205594" duration="1276000" />
+      <workItem from="1630741695620" duration="330000" />
+      <workItem from="1630829178542" duration="75000" />
+      <workItem from="1631220100724" duration="1525000" />
+      <workItem from="1631289059575" duration="1779000" />
+      <workItem from="1631300768187" duration="5648000" />
+      <workItem from="1631356171458" duration="9000" />
+      <workItem from="1634133748505" duration="599000" />
+      <workItem from="1634378066993" duration="1884000" />
+      <workItem from="1634555398681" duration="663000" />
+      <workItem from="1642888764485" duration="955000" />
+      <workItem from="1642892032036" duration="1947000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
